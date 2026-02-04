@@ -1,158 +1,35 @@
-👨‍💻 Ayush Anand Sharma
+<h1 align="center">Hi 👋, I'm Ayush Anand Sharma</h1>
+<h3 align="center">A passionate Android developer from India</h3>
 
-Android Developer | Kotlin Enthusiast | Building modern, scalable mobile applications
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-anand-sharma" alt="ayush-anand-sharma" /></a> </p>
 
-Welcome to my GitHub! I’m Ayush Anand Sharma, a results-driven Android Developer specializing in Kotlin, Jetpack Compose, Firebase, and REST APIs. I enjoy creating clean, fast, and scalable mobile apps that solve real-world problems with great UI and solid backend architecture.
+- 🔭 I’m currently working on [Blog App](https://github.com/ayush-anand-sharma/Blog-App)
 
-🚀 About Me
+- 🌱 I’m currently learning **Jetpack Compose**
 
-🎓 B.Tech in Computer Science & Engineering (2022–2026)
+- 👯 I’m looking to collaborate on **Firebase and Android studio**
 
-📍 Jaipur, Rajasthan
+- 🤝 I’m looking for help with **Flutter**
 
-📱 Passionate about Android development & mobile UX
+- 💬 Ask me about **Kotlin, XML, android dev**
 
-⚙️ Strong in API integration, authentication systems, and real-time databases
+- 📫 How to reach me **ayushanandsharma.ss@gmail.com**
 
-🧠 Focused on writing structured, maintainable, and efficient code
+- 📄 Know about my experiences [https://github.com/ayush-anand-sharma/ayush-anand-sharma/blob/main/My%20Resume.pdf](https://github.com/ayush-anand-sharma/ayush-anand-sharma/blob/main/My%20Resume.pdf)
 
-🛠 Technical Skills
+- ⚡ Fun fact **I think, I'm funny**
 
-Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayush anand sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush anand sharma" height="30" width="40" /></a>
+<a href="https://fb.com/ayush anand sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush anand sharma" height="30" width="40" /></a>
+<a href="https://instagram.com/restinpeace.ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restinpeace.ayush" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/restinpeace_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="restinpeace_ayush" height="30" width="40" /></a>
+</p>
 
-Kotlin
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Java (17)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-anand-sharma&show_icons=true&locale=en&layout=compact" alt="ayush-anand-sharma" /></p>
 
-Python (Basic)
-
-XML
-
-Android & Frameworks
-
-Jetpack Compose
-
-Android SDK
-
-View Binding
-
-RecyclerView
-
-Coroutines
-
-Backend & Tools
-
-Firebase Authentication
-
-Firebase Realtime Database
-
-Firebase Storage
-
-Retrofit
-
-REST APIs
-
-Git & GitHub
-
-Maven
-
-Core Concepts
-
-OOP
-
-MVC Architecture
-
-API Integration
-
-Authentication & Authorization
-
-Frontend–Backend Integration
-
-📱 Major Project
-📝 Blog App — Android Application
-
-(Oct 2025 – Dec 2025)
-
-A full-stack social blogging app built with Kotlin and Firebase that allows users to:
-
-Sign up & log in securely
-
-Create, publish, and manage blogs
-
-Search posts
-
-Like and save articles
-
-Store media and data in real time
-
-Tech Used:
-Kotlin, XML, View Binding, Firebase Auth, Realtime Database, Firebase Storage, Coroutines, RecyclerView, Glide, Fancy Toast, Sweet Alert
-
-📦 Minor Projects
-🌦 Weather App
-
-(Jul 2025 – Sep 2025)
-
-Real-time weather updates using OpenWeatherMap API
-
-GPS-based & manual city search
-
-Offline caching with SharedPreferences
-
-Built using Retrofit, Gson, Fused Location Provider, and Lottie animations
-
-🗒 Personal Notes App
-
-(Jun 2025 – Jul 2025)
-
-Secure note-taking app
-
-Login & signup with Firebase Authentication
-
-Notes stored and synced in Realtime Database
-
-Built with Kotlin, AndroidX, RecyclerView, View Binding
-
-📌 What You’ll Find Here
-
-This GitHub profile contains:
-
-📱 Android projects
-
-🔥 Firebase-powered apps
-
-🌐 API-based applications
-
-🧪 Learning & experiments
-
-📂 Clean, organized repositories
-
-Every project here reflects my growth as an Android developer and my passion for building real products.
-
-🎯 Career Goals
-
-Become an expert Android Engineer
-
-Build production-grade mobile apps
-
-Master clean architecture & scalable systems
-
-Contribute to open-source Android projects
-
-Work on high-impact mobile products
-
-🤝 Let’s Connect
-
-If you’re interested in:
-
-Android development
-
-Kotlin projects
-
-Firebase-based apps
-
-Collaboration or internships
-
-Feel free to explore my repositories and connect!
-
-✨ Thanks for visiting my GitHub — let’s build something amazing! 🚀
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-anand-sharma&show_icons=true&locale=en" alt="ayush-anand-sharma" /></p>
