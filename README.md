@@ -1,30 +1,73 @@
-<h1 align="center">Hi 👋, I'm Ayush Anand Sharma</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Blog App](https://github.com/ayush-anand-sharma/Blog-App)
+<img src="https://user-images.githubusercontent.com/74038190/212750148-9e3d6f07-bf50-4d3a-a5b4-0c12b6a6c7f1.gif" width="100%"/>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+# 👋 Hi, I'm Ayush Anand Sharma
+### Android Developer | Kotlin | Firebase | Jetpack Compose
 
-- 👯 I’m looking to collaborate on **Firebase and Android studio**
+<img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%7C+Firebase+%7C+Jetpack+Compose;Building+Modern+Mobile+Apps;Clean+UI+%7C+Secure+Backend" />
 
-- 🤝 I’m looking for help with **Flutter**
+📍 Jaipur, Rajasthan  
 
-- 💬 Ask me about **Kotlin, XML, android dev**
+---
 
-- 📫 How to reach me **ayushanandsharma.ss@gmail.com**
+## 🌐 Connect With Me
 
-- 📄 Know about my experiences [https://github.com/ayush-anand-sharma/ayush-anand-sharma/blob/main/My%20Resume.pdf](https://github.com/ayush-anand-sharma/ayush-anand-sharma/blob/main/My%20Resume.pdf)
-
-- ⚡ Fun fact **I think, I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-anand-sharma-a236902b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-anand-sharma-a236902b9" height="30" width="40" /></a>
-<a href="https://fb.com/ayushanand.sharma.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayushanand.sharma.9" height="30" width="40" /></a>
-<a href="https://instagram.com/restinpeace.ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restinpeace.ayush" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/restinpeace_ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="restinpeace_ayush" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:ayushanandsharma.ss@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ayushanandsharma.ss%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+  <a href="https://www.facebook.com/ayushanand.sharma.9/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-anand-sharma-a236902b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@restinpeace_ayush">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
+
+I am a **Results-Driven Android Developer** focused on building **scalable, secure and modern mobile applications** using **Kotlin, Firebase, Jetpack Compose and REST APIs**.  
+I enjoy turning ideas into **clean, fast and user-friendly apps** 🚀
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,xml"/>
+</p>
+
+### Android & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/>
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Anand-Sharma&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Anand-Sharma&theme=tokyonight"/>
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</div>
