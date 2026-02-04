@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Neon cyber banner -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750148-9e3d6f07-bf50-4d3a-a5b4-0c12b6a6c7f1.gif" width="100%"/>
 
 # 👋 Hi, I'm Ayush Anand Sharma
@@ -66,7 +69,7 @@ I enjoy turning ideas into **clean, fast and user-friendly apps** 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Anand-Sharma&show_icons=true&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ayush-Anand-Sharma&query=$.public_repos&label=Public%20Repos&color=0d1117&style=for-the-badge&logo=github"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Anand-Sharma&theme=tokyonight"/>
 </p>
