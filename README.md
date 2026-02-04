@@ -14,17 +14,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <p align="center">
   <a href="mailto:ayushanandsharma.ss@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ayushanandsharma.ss%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ayushanand.sharma.9/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ayush-anand-sharma-a236902b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@restinpeace_ayush">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="45"/>
   </a>
 </p>
 
@@ -40,19 +44,20 @@ I enjoy turning ideas into **clean, fast and user-friendly apps** 🚀
 ## 🧠 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,xml"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="48"/>
 </p>
 
 ### Android & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=android"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/>
 </p>
 
 ### Tools & Platforms
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,maven"/>
 </p>
 
