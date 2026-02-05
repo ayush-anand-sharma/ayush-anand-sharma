@@ -71,6 +71,7 @@ I enjoy turning ideas into **clean, fast and user-friendly apps** 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ayush-anand-sharma&query=$.public_repos&label=Public%20Repos&color=0d1117&style=for-the-badge&logo=github"/>
   <br/>
+  <h3 align="center">🔥  My Stats </h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-anand-sharma&theme=tokyonight"/>
 </p>
 
