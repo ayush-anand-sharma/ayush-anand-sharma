@@ -17,23 +17,31 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <p align="center">
   <a href="mailto:ayushanandsharma.ss@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.facebook.com/ayushanand.sharma.9/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/ayush-anand-sharma/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.youtube.com/@restinpeace_ayush">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/ayush_sharma007">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="45"/>
+  </a>
 </p>
+
 
 ---
 
@@ -71,6 +79,7 @@ I enjoy turning ideas into **clean, fast and user-friendly apps** 🚀
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ayush-anand-sharma&query=$.public_repos&label=Public%20Repos&color=0d1117&style=for-the-badge&logo=github"/>
   <br/>
+  <h3 align="center">🔥  My Stats </h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-anand-sharma&theme=tokyonight"/>
 </p>
 
