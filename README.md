@@ -17,29 +17,54 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
+  <!-- Email -->
   <a href="mailto:ayushanandsharma.ss@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/ayushanand.sharma.9/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ayush-anand-sharma/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- YouTube -->
   <a href="https://www.youtube.com/@restinpeace_ayush">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- X / Twitter -->
   <a href="https://x.com/ayush_sharma007">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="45"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/918946921030">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://ayush-anand.vercel.app">
+    <img src="https://img.icons8.com/color/48/domain.png" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Resume -->
+  <a href="https://github.com/ayush-anand-sharma/ayush-anand-sharma/blob/main/My%20Resume.pdf">
+    <img src="https://img.icons8.com/color/48/resume.png" width="45"/>
+  </a>
+
 </p>
 
 
