@@ -24,12 +24,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/ayushanand.sharma.9/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ayush-anand-sharma/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
