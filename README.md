@@ -42,6 +42,12 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/ayushanand.sharma.9/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <!-- WhatsApp -->
   <a href="https://wa.me/918946921030">
     <img src="https://img.icons8.com/color/48/whatsapp.png" width="45"/>
